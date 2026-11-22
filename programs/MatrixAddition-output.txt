@@ -1,0 +1,11 @@
+Enter the rows and coloumns
+2 2
+Enter the elements of A matrix
+1 2
+3 4
+Enter the elements of B matrix
+1 2
+3 4
+The sum of the A and B is
+2 4  
+6 8
